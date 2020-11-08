@@ -53,8 +53,8 @@ class App extends React.Component {
     return (
       <>
         <Jumbotron className="Jumbotron">
-          <h1>Employee directory</h1>
-          <p>list of employees</p>
+          <h1>employee directory</h1>
+          <p>list of all employees</p>
           <hr />
         </Jumbotron>
         <SearchBar

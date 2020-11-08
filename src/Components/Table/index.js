@@ -15,6 +15,7 @@ function UserTable(props) {
             <th>Picture</th>
             <th>First Name</th>
             <th>Last Name</th>
+            <th>Phone</th>
             <th>Email</th>
           </tr>
           {/* // ))} */}
@@ -26,6 +27,7 @@ function UserTable(props) {
               <td><img src={employee.picture.medium} /></td>
               <td>{employee.name.first}</td>
               <td>{employee.name.last}</td>
+              <td>{employee.phone}</td>
               <td>{employee.email}</td>
             </tr>
           ))}
