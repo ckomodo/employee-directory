@@ -2,6 +2,11 @@
 
 This is an employee directory made using React.
 
+# Deployed App
+
+* https://the-money-makers.herokuapp.com/
+
+
 
 # Homepage Screenshot
 ![HomepageScreenshot](public/images/employeeScreenshot.png)
